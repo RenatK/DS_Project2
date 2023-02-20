@@ -1,7 +1,7 @@
 
 
-# <center>Бизнес-задача по аналитике датасета резюме компании HeadHunter :bowtie:</center>
-![Очистка](https://drive.google.com/file/d/1nG6ZRDJOwICCdqUEW7B4jRlDA8P1lf3X/view?usp=share_link)
+# <center>Бизнес-задача по ~!!аналитике датасета резюме компании HeadHunter :bowtie:</center>
+![HR](https://drive.google.com/uc?export=view&id=174uvY_I6D4H-StSEHqlgPj-dk49Z21xe)
 
 
 ===============================================================================================
