@@ -46,7 +46,7 @@
 
 ## Описание баз данных
 В этом проекте анализируется 5 баз данных, которые будут объединяться в ходе выполнения проекта.
-![Structure] (https://drive.google.com/uc?export=view&id=1qzSfxx0M7tTM6AamJXDH0yJlB3TESSU6)               
+![Structure](https://drive.google.com/uc?export=view&id=1qzSfxx0M7tTM6AamJXDH0yJlB3TESSU6)               
  
  1   База вакансий (содержит 10 полей)                              
  2   База с наименованиями регионов       
